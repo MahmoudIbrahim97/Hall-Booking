@@ -1,0 +1,132 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-color: darkgrey
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+
+/*From here I will start*/
+.label-inputvalidation {
+    width: 320px;
+}
+.mylabel {
+    padding-left: 1px;
+    text-align: left;
+    color:azure;
+    font-size:medium;
+    font-family:Bahnschrift;
+    width:unset;
+}
+.inputvalidation {
+    width: 285px;
+    padding: 0px 0px 0px 0px;
+}
+
+.table th {
+    text-align:center;
+    font:bolder;
+}
+
+.searchform{
+    margin-left:80px;
+    margin-top:7px;
+}
+
+.Search {
+    width: 250px;
+    height:37px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    background-image: url(../images/Awicons-Vista-Artistic-Search.ico);
+    background-repeat: no-repeat;
+    background-size: 25px;
+    color: black;
+    transition: width 0.5s ease-in-out;
+    padding-left: 35px;
+    font-family: monospace;
+    font-style: oblique;
+    font-size: large;
+    background-position-y: 5px;
+}
+
+.Search:hover{
+    width: 500px;
+}
+input,select,textarea{
+    max-width:340px;
+}
+.h1, h2, h3, h4, h5, h6 {
+    color: darkblue;
+    text-align:center;
+}
+
+.img-size {
+    font-size:91px;
+    margin-left:10px;
+    margin-right:10px;
+    color:azure;
+}
+
+.navbar-nav > li > .dropdown-menu {
+    width: 290px;
+}
+
+.bottom-left{
+    position:absolute;
+    bottom:8px;
+    left:26px;
+    font: bolder 24px x-large;
+    color:azure;
+    background-color:darkslateblue;
+    padding:3px 5px 3px 5px;
+    border-radius: 12px;
+
+}
+
+.bottom-right {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+    font: bolder 24px x-large;
+    color: azure;
+    background-color: darkslateblue;
+    padding: 3px 5px 3px 5px;
+    border-radius: 12px;
+}
+table tr th{
+    text-align:center;
+    font-size:larger
+}
+
+table tr td{
+    text-align:center;
+    color:azure
+}
+a{
+    color:darkblue
+}
+
+.welcome:hover {
+    text-decoration-line:none;
+    background-color:red;
+}

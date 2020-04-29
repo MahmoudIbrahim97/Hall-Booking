@@ -1,0 +1,61 @@
+﻿@model IEnumerable<E7GeZlY.Models.Category>
+
+@{
+    ViewBag.Title = "Home Page";
+}
+<br />
+<div class="jumbotron" style="background-color:darkcyan;border-radius:12px;">
+    <h1 style="font-family:'Berlin Sans FB'">E7GeZlY</h1>
+    <p class="lead">The first free website in Egypt for halls comparison which offer you to book three categories of halls.</p>
+    <p><a href="http://asp.net" class="btn btn-primary btn-lg" style="background-color:darkgray">Learn more &raquo;</a></p>
+</div>
+
+<div class="row" style="color:black">
+    <div class="col-md-4">
+        <h2 style="text-align:left">Celebration Halls</h2>
+        <p>
+            Halls that are booked for celebration occasions like wedding parties, Engagement parties, or birthday parties..etc
+        </p>
+        <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301865">Learn more &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2 style="text-align:left">Conference Halls</h2>
+        <p>This category of halls are booked for the important conferences and seminars or similar occasions.</p>
+        <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301866">Learn more &raquo;</a></p>
+    </div>
+    <div class="col-md-4" >
+        <h2 style="text-align:left">Solace Halls</h2>
+        <p>The halls of consolation are rooms that are booked in the event of a death to receive the duty of consolation.</p>
+        <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301867">Learn more &raquo;</a></p>
+    </div>
+    `
+</div>
+
+<br />
+<br />
+<br />
+
+
+@foreach (var item in Model)
+{  
+<div class="text-center" style="border-bottom:groove; margin-bottom:70px; text-shadow:10px 12px 10px #333">
+    <h1 style="background:none;color:darkslateblue">@Html.DisplayFor(modelItem => item.CategoryName)</h1>
+    <div class="row"  style="margin:20px 10px 20px 1px">
+        @foreach (var subItem in item.MyHalls)
+        {
+            <div class="col-md-6 col-lg-4 col-sm-12" style="margin-bottom:10px;position:relative;text-align:center">
+
+
+                <a href="@Url.Action("Details", "Halls",new{id=subItem.Id })"><img src="~/Images/@subItem.Image" 
+                                                                                   width="380" height="380"
+                                                                            style="border:5px outset azure;border-radius:20px;"/></a>
+                                                                                   
+                    <div>
+                        <div class="bottom-left">@Html.DisplayFor(modelItem => subItem.HallName)</div>
+                        <div class="bottom-right">@Html.DisplayFor(modelItem => subItem.Price)</div>
+                    </div>
+            </div>
+        }
+    </div>
+</div>
+}

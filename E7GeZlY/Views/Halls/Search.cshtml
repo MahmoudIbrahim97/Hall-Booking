@@ -1,0 +1,38 @@
+﻿@model IEnumerable<E7GeZlY.Models.Hall>
+
+@{
+    ViewBag.Title = "Search";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<br />
+<h2 style="text-align:center;">Search Results</h2>
+<hr style="width:260px"/>
+
+@using (Html.BeginForm("Filter", "Halls", FormMethod.Post))
+{
+    <input type="number" style="display:inline;width:150px" placeholder="Minimum Price" name="min" class="form-control" />
+    <input type="number" style="display:inline;width:150px" placeholder="Maximum Price" name="max" class="form-control" />
+    @Html.DropDownList("CategoryId", null,"All Halls", htmlAttributes: new { @class = "form-control", @style = "display:inline;width:180px" })
+    <button type="submit" class="btn btn-primary">Ok</button>
+}
+<hr style="width:550px;margin-left:0px"/>
+<br />
+@foreach (var subItem in Model)
+{
+    <div class="col-md-6 col-lg-4 col-sm-12" style="margin-bottom:10px">
+
+
+        <a href="@Url.Action("Details", "Halls",new{id=subItem.Id })">
+            <img src="~/Images/@subItem.Image"
+                 width="380" height="380"
+                 style="border:5px outset azure;border-radius:20px;" />
+        </a>
+
+        <div>
+            <div class="bottom-left">@Html.DisplayFor(modelItem => subItem.HallName)</div>
+            <div class="bottom-right">@Html.DisplayFor(modelItem => subItem.Price)</div>
+        </div>
+
+    </div>
+}

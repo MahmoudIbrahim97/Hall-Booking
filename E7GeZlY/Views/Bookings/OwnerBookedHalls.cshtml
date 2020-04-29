@@ -1,0 +1,40 @@
+﻿@model IEnumerable<E7GeZlY.Models.BookingsViewModel>
+@using Microsoft.AspNet.Identity
+@using E7GeZlY.Models
+
+@{
+    ViewBag.Title = "OwnerBookedHalls";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@foreach (var bookings in Model)
+{
+    <h3 style="text-align:center">@bookings.HallName</h3>
+    <table class="table table-bordered">
+        <tr>
+            <th>Customer Name</th>
+            <th>Booking Date</th>
+            <th>Start Time</th>
+            <th>End Time</th>
+            <th></th>
+        </tr>
+        @foreach (var item in bookings.Items)
+        {
+            var db = new ApplicationDbContext();
+            var myuser = db.Users.Single(a => a.Id == item.UserId);
+            <tr class="text-center">
+                <td>@myuser.FirstName @myuser.LastName</td>
+                <td>@item.BookingDate</td>
+                <td>@item.StartTime</td>
+                <td>@item.EndTime</td>
+                <td>@Html.ActionLink("More Details", "Details", new { @id = item.Id })</td>
+            </tr>
+        }
+    </table>
+    <br />
+    <br />
+}
+
+
+
+

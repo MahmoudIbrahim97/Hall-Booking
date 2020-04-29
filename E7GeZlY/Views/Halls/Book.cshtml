@@ -1,0 +1,183 @@
+﻿@model E7GeZlY.Models.MyBooking
+
+@{
+    ViewBag.Title = "Book";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h2>Book The Hall</h2>
+
+       @foreach (DateTime date in ViewBag.BookedDays)
+       {
+           <h2 class="date" style="display:none">@date.Month-@date.Day-@date.Year</h2>
+       }
+        <hr />
+        @if (ViewBag.Success != null)
+        {
+            <div class="alert alert-success text-center"><span>@ViewBag.Success</span></div>
+        }
+
+        @if (ViewBag.Failure != null)
+        {
+            <div class="alert alert-danger text-center"><span>@ViewBag.Failure</span></div>
+        }
+
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.BookingDate, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.BookingDate, new { htmlAttributes = new { @class = "form-control", @id = "datepicker", @autocomplete = "off",@placeholder="The hall is bookd during unselectable days" } })
+                @Html.ValidationMessageFor(model => model.BookingDate, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.StartTime, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.StartTime, new { htmlAttributes = new { @class = "form-control", @type = "time" } })
+                @Html.ValidationMessageFor(model => model.StartTime, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.EndTime, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.EndTime, new { htmlAttributes = new { @class = "form-control", @type = "time" } })
+                @Html.ValidationMessageFor(model => model.EndTime, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Notes, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Notes, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Notes, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="control-label col-md-2">Additional Services</label>
+
+            @if (ViewBag.Service1 != null)
+            {
+                <input type="checkbox" style="margin-left:20px" /> @ViewBag.Service1 <br />
+
+            }
+
+            @if (ViewBag.Service2 != null)
+            {
+                <input type="checkbox" style="margin-left:20px" /> @ViewBag.Service2 <br />
+
+            }
+
+            <label class="control-label col-md-2"></label>
+            @if (ViewBag.Service3 != null)
+            {
+                <input type="checkbox" style="margin-left:20px" /> @ViewBag.Service3 <br />
+
+            }
+
+            <label class="control-label col-md-2"></label>
+            @if (ViewBag.Service4 != null)
+            {
+                <input type="checkbox" style="margin-left:20px" /> @ViewBag.Service4 <br />
+
+            }
+            <label class="control-label col-md-2"></label>
+            @if (ViewBag.Service5 != null)
+            {
+                <input type="checkbox" style="margin-left:20px" /> @ViewBag.Service5 <br />
+
+            }
+
+            <label class="control-label col-md-2"></label>
+            @if (ViewBag.Service6 != null)
+            {
+                <input type="checkbox" style="margin-left:20px" /> @ViewBag.Service6 <br />
+
+            }
+
+            <label class="control-label col-md-2"></label>
+            @if (ViewBag.Service7 != null)
+            {
+                <input type="checkbox" style="margin-left:20px" /> @ViewBag.Service7 <br />
+
+            }
+
+            <label class="control-label col-md-2"></label>
+            @if (ViewBag.Service8 != null)
+            {
+                <input type="checkbox" style="margin-left:20px" /> @ViewBag.Service8 <br />
+
+            }
+
+            <label class="control-label col-md-2"></label>
+            @if (ViewBag.Service9 != null)
+            {
+                <input type="checkbox" style="margin-left:20px" /> @ViewBag.Service9 <br />
+
+            }
+        </div>
+
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Confirm" class="btn btn-success" />
+            </div>
+        </div>
+    </div>
+}
+<link href="~/Content/themes/jquery-ui-1.12.1.custom/jquery-ui.min.css" rel="stylesheet" />
+@section scripts{
+
+    <script src="~/Scripts/jquery-ui-1.12.1.min.js"></script>
+
+    <script>
+
+        var disabledDays = [];
+        var x = document.querySelectorAll('.date');
+        
+        for (var i = 0; i < x.length; i++)
+        {
+            disabledDays[i] = x[i].innerHTML;
+            console.log(disabledDays);
+
+        }
+        
+        function nationalDays(date) {
+            var m = date.getMonth(), d = date.getDate(), y = date.getFullYear();
+            //console.log('Checking (raw): ' + m + '-' + d + '-' + y);
+            for (i = 0; i < disabledDays.length; i++) {
+                if ($.inArray((m + 1) + '-' + d + '-' + y, disabledDays) != -1 || new Date() > date) {
+                    //console.log('bad:  ' + (m+1) + '-' + d + '-' + y + ' / ' + disabledDays[i]);
+                    return [false];
+                }
+            }
+            //console.log('good:  ' + (m+1) + '-' + d + '-' + y);
+            return [true];
+        }
+        function noWeekendsOrHolidays(date) {
+            var noWeekend = jQuery.datepicker.noWeekends(date);
+            return  nationalDays(date);
+        }
+
+
+        $(document).ready(function () {
+            var minDate = new Date();
+
+            $("#datepicker").datepicker({
+                minDate:minDate,
+                showAnim: 'drop',
+                beforeShowDay: noWeekendsOrHolidays,
+
+            });
+        });
+    </script>
+
+}

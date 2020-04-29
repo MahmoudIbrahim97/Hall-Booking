@@ -1,0 +1,143 @@
+﻿@model E7GeZlY.Models.Hall
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div>
+    <h2 class="text-center">@Html.DisplayFor(model => model.HallName)</h2>
+
+    <hr />
+
+    <img src="~/Images/@Html.DisplayFor(model => model.Image)" class="thumbnail" width="480" height="480" style="float:right" />
+
+    <dl class="dl-horizontal" style="float:left">
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MyCategory.CategoryName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MyCategory.CategoryName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.County)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.County)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.City)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.City)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Address)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Address)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Services)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Services)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AdditionalService)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AdditionalService)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Service2)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Service2)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Service3)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Service3)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Service4)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Service4)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Service5)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Service5)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Service6)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Service6)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Service7)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Service7)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Service8)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Service8)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Service9)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Service9)
+        </dd>
+
+    </dl>
+</div>
+<div style="clear:both">
+    <p>
+        @Html.ActionLink("Book This Hall", "Book","Halls", new { id = Model.Id }, htmlAttributes: new { @class="btn-lg btn-success welcome"})
+    </p>
+</div>

@@ -1,0 +1,909 @@
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\ApplicationInsights.config
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\roslyn\csc.exe
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\roslyn\System.Collections.Immutable.dll
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\roslyn\System.Reflection.Metadata.dll
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\roslyn\vbc.exe
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\roslyn\VBCSCompiler.exe
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\roslyn\VBCSCompiler.exe.config
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\E7GeZlY.dll.config
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\E7GeZlY.dll
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\E7GeZlY.pdb
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\Antlr3.Runtime.dll
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\EntityFramework.dll
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\EntityFramework.SqlServer.dll
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\Microsoft.AI.DependencyCollector.dll
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\Microsoft.AI.Web.dll
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\Microsoft.AI.WindowsServer.dll
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\Microsoft.ApplicationInsights.dll
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.dll
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.dll
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Google.dll
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\Microsoft.Web.Infrastructure.dll
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\Newtonsoft.Json.dll
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\Owin.dll
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\System.Web.Helpers.dll
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\System.Web.Mvc.dll
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\System.Web.Optimization.dll
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\System.Web.Razor.dll
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.Deployment.dll
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.dll
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.Razor.dll
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\WebGrease.dll
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\Microsoft.AI.DependencyCollector.xml
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\Microsoft.AI.Web.xml
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\Microsoft.AI.WindowsServer.xml
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\Microsoft.ApplicationInsights.xml
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\System.Web.Helpers.xml
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\System.Web.Mvc.xml
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\System.Web.Optimization.xml
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\System.Web.Razor.xml
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.xml
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.Deployment.xml
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.Razor.xml
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\Antlr3.Runtime.pdb
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\Newtonsoft.Json.xml
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\EntityFramework.xml
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\EntityFramework.SqlServer.xml
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.xml
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.xml
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Google.xml
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.dll
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.pdb
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.InitialCreate.resources
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.csproj.GenerateResource.Cache
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.UsersTable1.resources
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.csproj.CoreCompileInputs.cache
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.csproj.CopyComplete
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.CategoryTable.resources
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.CategoryTable1.resources
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.HallsTable.resources
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.HallsTable1.resources
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.HallsTable2.resources
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.RolesTable.resources
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.RolesTable1.resources
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.newone.resources
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\ApplicationInsights.config
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\roslyn\csc.exe
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\roslyn\System.Collections.Immutable.dll
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\roslyn\System.Reflection.Metadata.dll
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\roslyn\vbc.exe
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\roslyn\VBCSCompiler.exe
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\roslyn\VBCSCompiler.exe.config
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\E7GeZlY.dll.config
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\E7GeZlY.dll
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\E7GeZlY.pdb
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\Antlr3.Runtime.dll
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\EntityFramework.dll
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\EntityFramework.SqlServer.dll
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\Microsoft.AI.DependencyCollector.dll
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\Microsoft.AI.Web.dll
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\Microsoft.AI.WindowsServer.dll
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\Microsoft.ApplicationInsights.dll
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\Microsoft.Owin.dll
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\Microsoft.Owin.Security.dll
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\Microsoft.Owin.Security.Google.dll
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\Microsoft.Web.Infrastructure.dll
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\Newtonsoft.Json.dll
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\Owin.dll
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\System.Web.Helpers.dll
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\System.Web.Mvc.dll
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\System.Web.Optimization.dll
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\System.Web.Razor.dll
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\System.Web.WebPages.Deployment.dll
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\System.Web.WebPages.dll
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\System.Web.WebPages.Razor.dll
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\WebGrease.dll
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\Microsoft.AI.DependencyCollector.xml
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\Microsoft.AI.Web.xml
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\Microsoft.AI.WindowsServer.xml
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\Microsoft.ApplicationInsights.xml
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\System.Web.Helpers.xml
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\System.Web.Mvc.xml
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\System.Web.Optimization.xml
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\System.Web.Razor.xml
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\System.Web.WebPages.xml
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\System.Web.WebPages.Deployment.xml
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\System.Web.WebPages.Razor.xml
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\Antlr3.Runtime.pdb
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\Newtonsoft.Json.xml
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\EntityFramework.xml
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\EntityFramework.SqlServer.xml
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\Microsoft.Owin.xml
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\Microsoft.Owin.Security.xml
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\Microsoft.Owin.Security.Google.xml
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\obj\Debug\E7GeZlY.Migrations.InitialCreate.resources
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\obj\Debug\E7GeZlY.Migrations.UsersTable1.resources
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\obj\Debug\E7GeZlY.Migrations.CategoryTable.resources
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\obj\Debug\E7GeZlY.Migrations.CategoryTable1.resources
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\obj\Debug\E7GeZlY.Migrations.HallsTable.resources
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\obj\Debug\E7GeZlY.Migrations.HallsTable1.resources
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\obj\Debug\E7GeZlY.Migrations.HallsTable2.resources
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\obj\Debug\E7GeZlY.Migrations.RolesTable.resources
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\obj\Debug\E7GeZlY.Migrations.RolesTable1.resources
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\obj\Debug\E7GeZlY.Migrations.newone.resources
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\obj\Debug\E7GeZlY.csproj.GenerateResource.cache
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\obj\Debug\E7GeZlY.csproj.CoreCompileInputs.cache
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\obj\Debug\E7GeZlY.csproj.CopyComplete
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\obj\Debug\E7GeZlY.dll
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\obj\Debug\E7GeZlY.pdb
+D:\Mahmoud\مشاريع\E7GeZlY - Copy (4)\E7GeZlY\obj\Debug\E7GeZlY.Migrations.MyBookingTable.resources
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.MyBookingTable.resources
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.newmig.resources
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.newmig1.resources
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.mymig.resources
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.licensesTable.resources
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.csprojAssemblyReference.cache
+D:\Mahmoud\مشاريع\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.datetime.resources
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\ApplicationInsights.config
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\roslyn\csc.exe
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\roslyn\System.Collections.Immutable.dll
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\roslyn\System.Reflection.Metadata.dll
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\roslyn\vbc.exe
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\roslyn\VBCSCompiler.exe
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\roslyn\VBCSCompiler.exe.config
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\E7GeZlY.dll.config
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\E7GeZlY.dll
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\E7GeZlY.pdb
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\Antlr3.Runtime.dll
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\EntityFramework.dll
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\EntityFramework.SqlServer.dll
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AI.DependencyCollector.dll
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AI.Web.dll
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AI.WindowsServer.dll
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.ApplicationInsights.dll
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.dll
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.dll
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Google.dll
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Web.Infrastructure.dll
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\Newtonsoft.Json.dll
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\Owin.dll
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\System.Web.Helpers.dll
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\System.Web.Mvc.dll
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\System.Web.Optimization.dll
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\System.Web.Razor.dll
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.Deployment.dll
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.dll
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.Razor.dll
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\WebGrease.dll
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AI.DependencyCollector.xml
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AI.Web.xml
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AI.WindowsServer.xml
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.ApplicationInsights.xml
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\System.Web.Helpers.xml
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\System.Web.Mvc.xml
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\System.Web.Optimization.xml
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\System.Web.Razor.xml
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.xml
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.Deployment.xml
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.Razor.xml
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\Antlr3.Runtime.pdb
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\Newtonsoft.Json.xml
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\EntityFramework.xml
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\EntityFramework.SqlServer.xml
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.xml
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.xml
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Google.xml
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.InitialCreate.resources
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.UsersTable1.resources
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.CategoryTable.resources
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.CategoryTable1.resources
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.HallsTable.resources
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.HallsTable1.resources
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.HallsTable2.resources
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.RolesTable.resources
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.RolesTable1.resources
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.newone.resources
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.MyBookingTable.resources
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.newmig.resources
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.newmig1.resources
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.mymig.resources
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.LicensesTable.resources
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.datetime.resources
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.csproj.GenerateResource.cache
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.csproj.CoreCompileInputs.cache
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.csproj.CopyComplete
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.dll
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.pdb
+D:\Programming\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.mig.resources
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\ApplicationInsights.config
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\roslyn\csc.exe
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\roslyn\vbc.exe
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\roslyn\VBCSCompiler.exe
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\E7GeZlY.dll.config
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\E7GeZlY.dll
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\E7GeZlY.pdb
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Antlr3.Runtime.dll
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\EntityFramework.dll
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\EntityFramework.SqlServer.dll
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AI.Web.dll
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.ApplicationInsights.dll
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.dll
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.dll
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Newtonsoft.Json.dll
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Owin.dll
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\System.Web.Helpers.dll
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\System.Web.Mvc.dll
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\System.Web.Optimization.dll
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\System.Web.Razor.dll
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.Deployment.dll
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.dll
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.Razor.dll
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\WebGrease.dll
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AI.Web.xml
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.ApplicationInsights.xml
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\System.Web.Helpers.xml
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\System.Web.Mvc.xml
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\System.Web.Optimization.xml
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\System.Web.Razor.xml
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.xml
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.Deployment.xml
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.Razor.xml
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Antlr3.Runtime.pdb
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Newtonsoft.Json.xml
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\EntityFramework.xml
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\EntityFramework.SqlServer.xml
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.xml
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.xml
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.csprojAssemblyReference.cache
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.InitialCreate.resources
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.UsersTable1.resources
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.CategoryTable.resources
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.CategoryTable1.resources
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.HallsTable.resources
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.HallsTable1.resources
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.HallsTable2.resources
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.RolesTable.resources
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.RolesTable1.resources
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.newone.resources
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.MyBookingTable.resources
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.newmig.resources
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.newmig1.resources
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.mymig.resources
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.LicensesTable.resources
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.datetime.resources
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.mig.resources
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.csproj.GenerateResource.cache
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.csproj.CoreCompileInputs.cache
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.csproj.CopyComplete
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.dll
+C:\Users\JIMMY\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.pdb
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\ApplicationInsights.config
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\roslyn\csc.exe
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\roslyn\vbc.exe
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\E7GeZlY.dll.config
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\E7GeZlY.dll
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\E7GeZlY.pdb
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Antlr3.Runtime.dll
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\EntityFramework.dll
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\EntityFramework.SqlServer.dll
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AI.Web.dll
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.dll
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.dll
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Newtonsoft.Json.dll
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Owin.dll
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\System.Web.Helpers.dll
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\System.Web.Mvc.dll
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\System.Web.Optimization.dll
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\System.Web.Razor.dll
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.dll
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\WebGrease.dll
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AI.Web.xml
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\System.Web.Helpers.xml
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\System.Web.Mvc.xml
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\System.Web.Optimization.xml
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\System.Web.Razor.xml
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.xml
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Antlr3.Runtime.pdb
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Newtonsoft.Json.xml
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\EntityFramework.xml
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\EntityFramework.SqlServer.xml
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.xml
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.xml
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.csprojAssemblyReference.cache
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.InitialCreate.resources
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.UsersTable1.resources
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.CategoryTable.resources
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.CategoryTable1.resources
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.HallsTable.resources
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.HallsTable1.resources
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.HallsTable2.resources
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.RolesTable.resources
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.RolesTable1.resources
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.newone.resources
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.MyBookingTable.resources
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.newmig.resources
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.newmig1.resources
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.mymig.resources
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.LicensesTable.resources
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.datetime.resources
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.mig.resources
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.csproj.GenerateResource.cache
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.csproj.CopyComplete
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.dll
+C:\Users\Mahmoud\Desktop\الشغل\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.pdb
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\ApplicationInsights.config
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\csc.exe
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\vbc.exe
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\E7GeZlY.dll.config
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\E7GeZlY.dll
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\E7GeZlY.pdb
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\Antlr3.Runtime.dll
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\EntityFramework.dll
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\EntityFramework.SqlServer.dll
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AI.Web.dll
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.dll
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.dll
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\Newtonsoft.Json.dll
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\Owin.dll
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.Helpers.dll
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.Mvc.dll
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.Optimization.dll
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.Razor.dll
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.dll
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\WebGrease.dll
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AI.Web.xml
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.Helpers.xml
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.Mvc.xml
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.Optimization.xml
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.Razor.xml
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.xml
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\Antlr3.Runtime.pdb
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\Newtonsoft.Json.xml
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\EntityFramework.xml
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\EntityFramework.SqlServer.xml
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.xml
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.xml
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.csprojAssemblyReference.cache
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.InitialCreate.resources
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.UsersTable1.resources
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.CategoryTable.resources
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.CategoryTable1.resources
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.HallsTable.resources
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.HallsTable1.resources
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.HallsTable2.resources
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.RolesTable.resources
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.RolesTable1.resources
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.newone.resources
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.MyBookingTable.resources
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.newmig.resources
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.newmig1.resources
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.mymig.resources
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.LicensesTable.resources
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.datetime.resources
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.mig.resources
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.csproj.GenerateResource.cache
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.csproj.CopyComplete
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.dll
+C:\Users\Mahmoud\Desktop\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.pdb
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\ApplicationInsights.config
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\csc.exe
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\System.Collections.Immutable.dll
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\System.Reflection.Metadata.dll
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\vbc.exe
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\VBCSCompiler.exe
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\VBCSCompiler.exe.config
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\E7GeZlY.dll.config
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\E7GeZlY.dll
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\E7GeZlY.pdb
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\Antlr3.Runtime.dll
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\EntityFramework.dll
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\EntityFramework.SqlServer.dll
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AI.DependencyCollector.dll
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AI.Web.dll
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AI.WindowsServer.dll
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.ApplicationInsights.dll
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.dll
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.dll
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Google.dll
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Web.Infrastructure.dll
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\Newtonsoft.Json.dll
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\Owin.dll
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.Helpers.dll
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.Mvc.dll
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.Optimization.dll
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.Razor.dll
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.Deployment.dll
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.dll
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.Razor.dll
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\WebGrease.dll
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AI.DependencyCollector.xml
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AI.Web.xml
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AI.WindowsServer.xml
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.ApplicationInsights.xml
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.Helpers.xml
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.Mvc.xml
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.Optimization.xml
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.Razor.xml
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.xml
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.Deployment.xml
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.Razor.xml
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\Antlr3.Runtime.pdb
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\Newtonsoft.Json.xml
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\EntityFramework.xml
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\EntityFramework.SqlServer.xml
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.xml
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.xml
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Google.xml
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.csprojAssemblyReference.cache
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.InitialCreate.resources
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.UsersTable1.resources
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.CategoryTable.resources
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.CategoryTable1.resources
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.HallsTable.resources
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.HallsTable1.resources
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.HallsTable2.resources
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.RolesTable.resources
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.RolesTable1.resources
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.newone.resources
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.MyBookingTable.resources
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.newmig.resources
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.newmig1.resources
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.mymig.resources
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.LicensesTable.resources
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.datetime.resources
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.mig.resources
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.csproj.GenerateResource.cache
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.csproj.CoreCompileInputs.cache
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.csproj.CopyComplete
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.dll
+D:\Mahmoud\Galaxy S4\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.pdb
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\ApplicationInsights.config
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\csc.exe
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\System.Collections.Immutable.dll
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\System.Reflection.Metadata.dll
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\vbc.exe
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\VBCSCompiler.exe
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\VBCSCompiler.exe.config
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\E7GeZlY.dll.config
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\E7GeZlY.dll
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\E7GeZlY.pdb
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\Antlr3.Runtime.dll
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\EntityFramework.dll
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\EntityFramework.SqlServer.dll
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AI.DependencyCollector.dll
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AI.Web.dll
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AI.WindowsServer.dll
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.ApplicationInsights.dll
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.dll
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.dll
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Google.dll
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Web.Infrastructure.dll
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\Newtonsoft.Json.dll
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\Owin.dll
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.Helpers.dll
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.Mvc.dll
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.Optimization.dll
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.Razor.dll
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.Deployment.dll
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.dll
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.Razor.dll
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\WebGrease.dll
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AI.DependencyCollector.xml
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AI.Web.xml
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AI.WindowsServer.xml
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.ApplicationInsights.xml
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.Helpers.xml
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.Mvc.xml
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.Optimization.xml
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.Razor.xml
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.xml
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.Deployment.xml
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.Razor.xml
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\Antlr3.Runtime.pdb
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\Newtonsoft.Json.xml
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\EntityFramework.xml
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\EntityFramework.SqlServer.xml
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.xml
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.xml
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Google.xml
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.csprojAssemblyReference.cache
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.InitialCreate.resources
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.UsersTable1.resources
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.CategoryTable.resources
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.CategoryTable1.resources
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.HallsTable.resources
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.HallsTable1.resources
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.HallsTable2.resources
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.RolesTable.resources
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.RolesTable1.resources
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.newone.resources
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.MyBookingTable.resources
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.newmig.resources
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.newmig1.resources
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.mymig.resources
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.LicensesTable.resources
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.datetime.resources
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.mig.resources
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.csproj.GenerateResource.cache
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.csproj.CoreCompileInputs.cache
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.csproj.CopyComplete
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.dll
+D:\Programming\مشاريع\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.pdb
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\ApplicationInsights.config
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\csc.exe
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\System.Collections.Immutable.dll
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\System.Reflection.Metadata.dll
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\vbc.exe
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\VBCSCompiler.exe
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\roslyn\VBCSCompiler.exe.config
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\E7GeZlY.dll.config
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\E7GeZlY.dll
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\E7GeZlY.pdb
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\Antlr3.Runtime.dll
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\EntityFramework.dll
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\EntityFramework.SqlServer.dll
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AI.DependencyCollector.dll
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AI.Web.dll
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AI.WindowsServer.dll
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.ApplicationInsights.dll
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.dll
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.dll
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Google.dll
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Web.Infrastructure.dll
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\Newtonsoft.Json.dll
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\Owin.dll
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.Helpers.dll
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.Mvc.dll
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.Optimization.dll
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.Razor.dll
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.Deployment.dll
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.dll
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.Razor.dll
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\WebGrease.dll
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AI.DependencyCollector.xml
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AI.Web.xml
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AI.WindowsServer.xml
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.ApplicationInsights.xml
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.Helpers.xml
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.Mvc.xml
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.Optimization.xml
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.Razor.xml
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.xml
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.Deployment.xml
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\System.Web.WebPages.Razor.xml
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\Antlr3.Runtime.pdb
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\Newtonsoft.Json.xml
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\EntityFramework.xml
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\EntityFramework.SqlServer.xml
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.xml
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.xml
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Google.xml
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.csprojAssemblyReference.cache
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.InitialCreate.resources
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.UsersTable1.resources
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.CategoryTable.resources
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.CategoryTable1.resources
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.HallsTable.resources
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.HallsTable1.resources
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.HallsTable2.resources
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.RolesTable.resources
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.RolesTable1.resources
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.newone.resources
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.MyBookingTable.resources
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.newmig.resources
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.newmig1.resources
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.mymig.resources
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.LicensesTable.resources
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.datetime.resources
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.Migrations.mig.resources
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.csproj.GenerateResource.cache
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.csproj.CopyComplete
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.dll
+D:\Programming\Projects\Necessary\E7GeZlY\E7GeZlY\E7GeZlY\obj\Debug\E7GeZlY.pdb

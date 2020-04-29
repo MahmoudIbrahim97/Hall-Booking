@@ -1,0 +1,119 @@
+﻿@using Microsoft.AspNet.Identity
+@using E7GeZlY.Models
+
+@if (Request.IsAuthenticated)
+{
+    using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" }))
+    {
+        var db = new ApplicationDbContext();
+        var userId = User.Identity.GetUserId();
+        var CurrentUser = db.Users.Single(a => a.Id == userId);
+        @Html.AntiForgeryToken()
+
+        @*<ul class="nav navbar-nav navbar-right">
+                <li>
+                    @Html.ActionLink("Hello " + CurrentUser.FirstName + " !", "Index", "Manage", routeValues: null, htmlAttributes: new { title = "Manage" })
+                </li>
+                <li><a href="javascript:document.getElementById('logoutForm').submit()">Sign Out</a></li>
+            </ul>*@
+
+
+
+        <ul class="nav navbar-nav navbar-right">
+            <li class="dropdown" style="background-color:cadetblue">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                    <span class="glyphicon glyphicon-user"></span>
+                    <strong>Hello: @CurrentUser.FirstName  </strong>
+                    <span class="glyphicon glyphicon-chevron-down"></span>
+                </a>
+                <ul class="dropdown-menu" style="background-color:black">
+                    <li>
+                        <div class="navbar-user">
+                            <div class="row">
+                                <div class="col-lg-4">
+                                    <p>
+                                        <span class="glyphicon glyphicon-user img-size"></span>
+                                    </p>
+                                </div>
+                                <div class="col-lg-8">
+                                    <p class="text-left">
+                                        <strong style="font-size:large;color:azure">@CurrentUser.FirstName @CurrentUser.LastName</strong>
+                                    </p>
+                                    @if (CurrentUser.UserType == "Hall Owner")
+                                    {
+                                        <a href="~/Halls/Create" class="btn btn-success btn-block">Add Hall</a>
+                                        <a href="~/Halls/GetOwnerHalls" class="btn btn-success btn-block">My Halls</a>
+                                        <a href="~/Bookings/OwnerBookedHalls" class="btn btn-success btn-block">Booked Halls</a>
+                                    }
+                                    @if (CurrentUser.UserType == "Customer")
+                                    {
+                                        <a href="~/Bookings/MyBookings" class="btn btn-success btn-block">My Bookings</a>
+                                    }
+                                    @if (CurrentUser.LastName == "Ibrahim")
+                                    {
+                                        <a href="~/Roles/Index" class="btn btn-success btn-block">Roles</a>
+                                        <a href="~/Halls/Index" class="btn btn-success btn-block">Halls</a>
+                                        <a href="~/Categories/Index" class="btn btn-success btn-block">Categories</a>
+                                    }
+
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="divider"></li>
+                    <li>
+                        <div>
+                            <div class="row" style="padding:1px 5px;">
+                                <div class="col-lg-12">
+                                    <p>
+                                        <a href="~/Manage/Index" title="Manage" class="btn btn-primary btn-block">Edit Account</a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+
+                    <li>
+                        <div>
+                            <div class="row" style="padding:1px 5px;">
+                                <div class="col-lg-12">
+                                    <p>
+                                        <a href="javascript:document.getElementById('logoutForm').submit()" class="btn btn-danger btn-block">
+
+                                            <i class="glyphicon glyphicon-off"> </i>
+                                            Sign Out
+                                        </a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+
+                </ul>
+            </li>
+
+
+
+            @*<li>
+                    @Html.ActionLink("مرحبا " + User.Identity.GetUserName(), "Index", "Manage")
+                </li>
+                <li>
+                    <a href="javascript:document.getElementById('logoff').submit()">
+
+                    <i class="glyphicon glyphicon-off"> </i>
+                        تسجيل الخروج </a>
+                </li>*@
+        </ul>
+
+
+
+
+    }
+}
+else
+{
+    <ul class="nav navbar-nav navbar-right">
+        <li>@Html.ActionLink("Sign Up", "Register", "Account", routeValues: null, htmlAttributes: new { id = "registerLink" })</li>
+        <li>@Html.ActionLink("Sign In", "Login", "Account", routeValues: null, htmlAttributes: new { id = "loginLink" })</li>
+    </ul>
+}
